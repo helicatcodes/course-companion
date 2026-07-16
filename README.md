@@ -6,12 +6,6 @@ Built as my capstone for Le Wagon's AI Product Builder course. I owned the full 
 
 🎬 [Demo](https://youtu.be/9r1g6I0wlGs) · [Full technical walkthrough (7 min)](https://youtu.be/tosVH4YtQhU)
 
-<img width="1470" height="956" alt="Screenshot 2026-05-30 at 14 30 11" src="https://github.com/user-attachments/assets/f336bfbc-25ee-43b2-bdd2-4f8311b381e0" />
-<img width="1470" height="956" alt="Screenshot 2026-05-30 at 14 31 45" src="https://github.com/user-attachments/assets/8211ad62-056a-4fca-9d8f-8ca410cb2c47" />
-<img width="1251" height="975" alt="Screenshot 2026-07-16 at 15 48 53" src="https://github.com/user-attachments/assets/403bc51a-235a-4c83-aa63-bace616121bf" />
-<img width="1462" height="851" alt="Screenshot 2026-07-16 at 15 50 04" src="https://github.com/user-attachments/assets/0bea1137-43c1-497a-bbfe-b2147806bfd5" />
-
-
 <table>
   <tr>
     <td width="50%">
